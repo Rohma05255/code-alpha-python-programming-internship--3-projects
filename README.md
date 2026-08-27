@@ -26,7 +26,7 @@ A tool to track, add, and manage stock investments.
 - Learned how to structure small projects properly
 
 ## 👩‍💻 About Me
-Biotechnology student exploring Python programming and its applications beyond core science — currently building skills in coding, data handling, and scientific programming.
+Biotechnology student exploring Python programming and its applications beyond core science — currently building skills in coding, data handling, and scientific programming
 
 ## 🔗 Connect
 [LinkedIn Profile Link]
